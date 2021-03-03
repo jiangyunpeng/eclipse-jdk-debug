@@ -34,6 +34,6 @@
 
 ``` javac -J-Xms16m -J-Xmx1024m -sourcepath jdk_src -cp rt.jar -d jdk_debug -g @filelist.txt``` 
 
-6. 进入 /data/jdk/jdk_debug 目录执行如下命令打包：
+6、 进入 /data/jdk/jdk_debug 目录执行如下命令打包：
 
 ``` jar cf0 rt_debug.jar * ```
