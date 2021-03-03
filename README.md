@@ -1,6 +1,6 @@
 # eclipse-jdk-debug
 
-一个可以在 eclipse 下 debug jdk 的 jar 包。
+一个可以在 eclipse debug jdk 中查看源码变量的jar包。
 
 ## 问题
 虽然 IDEA 已经很流行了，但是对于像我这样习惯使用 Eclipse 的人来说切换到 IDEA 还是一件很痛苦的事情，其实 Eclipse 在大部分情况下已经够用，现在剩下唯一吐槽的点是 debug JDK 时无法查看源码中变量的值。
